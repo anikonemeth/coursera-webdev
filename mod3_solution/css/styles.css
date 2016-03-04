@@ -1,0 +1,14 @@
+.navbar-brand {
+	position: absolute;
+	left: 5px;
+}
+
+.navbar-nav li {
+	width: 100%;
+	background-color: #aaaaaa;
+}
+
+.content {
+	min-height: 1000px;
+	background-color: #666666;
+}
